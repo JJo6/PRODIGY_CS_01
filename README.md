@@ -1,5 +1,5 @@
 # PRODIGY_CS_01
-**Ciesar Cipher**
+**Caesar Cipher**
 
 This project implements a simple graphical user interface (GUI) for encrypting and decrypting text using the Caesar Cipher algorithm. The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
